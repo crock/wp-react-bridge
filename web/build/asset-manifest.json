@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.js": "/wp-content/plugins/wp-react-bridge/web/build/static/js/main.8a1ca422.chunk.js",
-    "main.js.map": "/wp-content/plugins/wp-react-bridge/web/build/static/js/main.8a1ca422.chunk.js.map",
+    "main.css": "/wp-content/plugins/wp-react-bridge/web/build/static/css/main.f4ff7697.chunk.css",
+    "main.js": "/wp-content/plugins/wp-react-bridge/web/build/static/js/main.ea2a58b3.chunk.js",
+    "main.js.map": "/wp-content/plugins/wp-react-bridge/web/build/static/js/main.ea2a58b3.chunk.js.map",
     "runtime-main.js": "/wp-content/plugins/wp-react-bridge/web/build/static/js/runtime-main.544f9f71.js",
     "runtime-main.js.map": "/wp-content/plugins/wp-react-bridge/web/build/static/js/runtime-main.544f9f71.js.map",
-    "static/js/2.183d2c00.chunk.js": "/wp-content/plugins/wp-react-bridge/web/build/static/js/2.183d2c00.chunk.js",
-    "static/js/2.183d2c00.chunk.js.map": "/wp-content/plugins/wp-react-bridge/web/build/static/js/2.183d2c00.chunk.js.map",
+    "static/js/2.fef212fe.chunk.js": "/wp-content/plugins/wp-react-bridge/web/build/static/js/2.fef212fe.chunk.js",
+    "static/js/2.fef212fe.chunk.js.map": "/wp-content/plugins/wp-react-bridge/web/build/static/js/2.fef212fe.chunk.js.map",
     "index.html": "/wp-content/plugins/wp-react-bridge/web/build/index.html",
-    "static/js/2.183d2c00.chunk.js.LICENSE.txt": "/wp-content/plugins/wp-react-bridge/web/build/static/js/2.183d2c00.chunk.js.LICENSE.txt"
+    "static/css/main.f4ff7697.chunk.css.map": "/wp-content/plugins/wp-react-bridge/web/build/static/css/main.f4ff7697.chunk.css.map",
+    "static/js/2.fef212fe.chunk.js.LICENSE.txt": "/wp-content/plugins/wp-react-bridge/web/build/static/js/2.fef212fe.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.544f9f71.js",
-    "static/js/2.183d2c00.chunk.js",
-    "static/js/main.8a1ca422.chunk.js"
+    "static/js/2.fef212fe.chunk.js",
+    "static/css/main.f4ff7697.chunk.css",
+    "static/js/main.ea2a58b3.chunk.js"
   ]
 }

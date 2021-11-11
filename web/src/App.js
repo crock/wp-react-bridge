@@ -14,7 +14,9 @@ function App() {
   }, [])
 
   return (
-    <div className="App">This is a React app embedded in a WordPress Admin Dashboard screen.</div>
+    <div id="wp-react-bridge" className="bg-transparent dark:bg-gray-900">
+      <p className="text-black dark:text-white">This is a React app embedded in a WordPress Admin Dashboard screen.</p>
+    </div>
   );
 }
 
